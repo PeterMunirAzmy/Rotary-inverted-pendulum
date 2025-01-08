@@ -63,12 +63,6 @@ where `Q` penalizes state errors and `R` penalizes control effort.
 - Addressed challenges with mechanical setup and encoder data consistency.
 - Achieved robust performance with real-time control.
 
----
-
-## Repository Structure
-
-- `/Simulink Models`: MATLAB/Simulink files for the system design and simulation.
-- `/Hardware Code`: C++ code for ESP32 and custom encoder block.
 
 ---
 
